@@ -1,3 +1,4 @@
 this is test file
 2nd line added to this file local repo
 3rd line added to the file central repo
+4th line added to the file in local repo B1
